@@ -1,0 +1,11 @@
+OE layer for all stuff either temporary fixes or backports
+
+This layer depends on:
+
+URI: https://git.yoctoproject.org/git/poky
+branch: jethro
+revision: HEAD
+
+URI: https://github.com/schnitzeltony/meta-misc
+branch: jethro
+revision: HEAD
