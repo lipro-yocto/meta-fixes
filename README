@@ -6,6 +6,10 @@ URI: https://git.yoctoproject.org/git/poky
 branch: jethro
 revision: HEAD
 
+URI: https://github.com/schnitzeltony/meta-office
+branch: master
+revision: HEAD
+
 URI: https://github.com/schnitzeltony/meta-misc
 branch: jethro
 revision: HEAD
